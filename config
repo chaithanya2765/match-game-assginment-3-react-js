@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/chaithanya2765/match-game-reactjs.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "orign"]
+	url = https://github.com/chaithanya2765/match-game-assginment-3-react-js.git
+	fetch = +refs/heads/*:refs/remotes/orign/*
